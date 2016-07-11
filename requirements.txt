@@ -1,0 +1,26 @@
+astropy == 1.0.3
+cement == 2.6.0
+elasticsearch == 2.1.0
+Flask == 0.10.1
+Flask_Mail == 0.9.1
+Flask-Security
+flask_log
+flask_sqlalchemy
+numpy == 1.10.2
+openpyxl == 2.3.5
+pandas == 0.17.1
+pIDLy == 0.2.6
+potsdb == 1.0.0
+pytz == 2012c
+requests == 2.8.1
+requests_futures == 0.9.5
+seaborn == 0.6.0
+simplejson == 3.7.3
+strict_rfc3339 == 0.6
+Werkzeug == 0.10.4
+Pillow == 3.2.0
+psycopg2 == 2.6.1
+scipy == 0.17.1
+ujson == 1.35
+
+gunicorn == 19.6.0
