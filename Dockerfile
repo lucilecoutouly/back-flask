@@ -6,7 +6,9 @@ ENV PYTHONUNBUFFERED 1
 
 WORKDIR /usr/src/app
 
-VOLUME /usr/src/app
+#VOLUME /usr/src/app
+
+COPY back_nsa /usr/src/app
 
 EXPOSE 8000
 
